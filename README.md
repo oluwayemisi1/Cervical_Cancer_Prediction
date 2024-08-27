@@ -49,5 +49,5 @@ Among these models, Random Forest achieved the highest accuracy, making it the m
 # Findings
 One key finding from the analysis is that individuals with an earlier age of first sexual intercourse tend to have a higher likelihood of being diagnosed with sexually transmitted diseases (STDs), highlighting the significance of early sexual health education and intervention in reducing cervical cancer risk. The Random Forest model achieved the highest accuracy of 99.40% in predicting cervical cancer risk, indicating its effectiveness in distinguishing between individuals at high and low risk for the disease.
 
-
 # CONCLUSION
+I conclusion This project successfully demonstrated the importance of machine learning models in predicting cervical cancer risk, with the Random Forest algorithm achieving the highest accuracy of 99.40%, which shows the model's effectiveness in identifying individuals at risk. By applying machine learning techniques and detailed data analysis, this project contributes to improving cervical cancer screening processes and potentially reducing the incidence and mortality associated with the disease. The application of AI in clinical practice could enhance early detection efforts, leading to earlier diagnoses of cervical cancer and facilitating timely treatment.
