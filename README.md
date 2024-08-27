@@ -38,16 +38,16 @@ The number of diagnoses tends to decrease as the age of first sexual intercourse
 6. A scatter plot was done to know the Age Distribution with people with Cancer Diagnosis, The scatter plot shows that people with cancer were more commonly aged between 20-50, with a sparse distribution across this range, while those without cancer were clustered between 15-45, with fewer cases appearing around age 80.
 
 # Modelling
-1. Random Forest (RF): 99.40%
-2. Support Vector Machine (SVM): 98.80%
-3. Logistic Regression (LR): Mean Squared Error: 0.0065
-4. AdaBoost: 98.80%
-5. CatBoost: 99.40%
+1. Random Forest (RF): 100%
+2. Support Vector Machine (SVM): 98.20%
+3. Logistic Regression (LR): Mean Squared Error: 0.0126, R-squared: 0.4583
+5. AdaBoost: 98.80%
+6. CatBoost: 100%
 
 Among these models, Random Forest achieved the highest accuracy, making it the most effective for predicting cervical cancer risk in this case.
 
 # Findings
-One key finding from the analysis is that individuals with an earlier age of first sexual intercourse tend to have a higher likelihood of being diagnosed with sexually transmitted diseases (STDs), highlighting the significance of early sexual health education and intervention in reducing cervical cancer risk. The Random Forest model achieved the highest accuracy of 99.40% in predicting cervical cancer risk, indicating its effectiveness in distinguishing between individuals at high and low risk for the disease.
+One key finding from the analysis is that individuals with an earlier age of first sexual intercourse tend to have a higher likelihood of being diagnosed with sexually transmitted diseases (STDs), highlighting the significance of early sexual health education and intervention in reducing cervical cancer risk. The Random Forest and CatBoost model achieved the highest accuracy of 99.40% in predicting cervical cancer risk, indicating its effectiveness in distinguishing between individuals at high and low risk for the disease.
 
 # CONCLUSION
-I conclusion This project successfully demonstrated the importance of machine learning models in predicting cervical cancer risk, with the Random Forest algorithm achieving the highest accuracy of 99.40%, which shows the model's effectiveness in identifying individuals at risk. By applying machine learning techniques and detailed data analysis, this project contributes to improving cervical cancer screening processes and potentially reducing the incidence and mortality associated with the disease. The application of AI in clinical practice could enhance early detection efforts, leading to earlier diagnoses of cervical cancer and facilitating timely treatment.
+I conclusion This project successfully demonstrated the importance of machine learning models in predicting cervical cancer risk, with the Random Forest and CatBoost algorithm achieving the highest accuracy of 100%, which shows the model's effectiveness in identifying individuals at risk. By applying machine learning techniques and detailed data analysis, this project contributes to improving cervical cancer screening processes and potentially reducing the incidence and mortality associated with the disease. The application of AI in clinical practice could enhance early detection efforts, leading to earlier diagnoses of cervical cancer and facilitating timely treatment.
